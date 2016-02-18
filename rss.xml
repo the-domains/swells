@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[SWELLS]]></title>
         <description><![CDATA[SWELLS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/swells/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 09:55:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 10:24:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/swells/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.stendahls.se/sites/default/files/volvocase4_4.jpg">]]></description>
+            <link>https://thegrid.ai/swells/578c9f22-48f8-4ccb-aa61-c1e10a8a04de/index.html</link>
+            <guid isPermaLink="false">578c9f22-48f8-4ccb-aa61-c1e10a8a04de</guid>
+            <pubDate>Thu, 18 Feb 2016 10:23:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nordic stroke]]></title>
             <description><![CDATA[<article><h1>Nordic stroke</h1><p>Met up with Magnus and the CROSSWATER guys this weekend to get the latest from their quest towards the "prefect stroke". 
 Their long research has led them to something they call "the Nordic stroke". The approach is very scientific and I have a lot to learn if I want to paddle faster and more efficient. The most dramatic change however, is that I’m now using my (already very short) wave paddle together with the race board…
-Looks fast, doesn't it?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70d24e9-6ee6-41d3-bf8a-3241e3085bd4.jpg"></article>]]></description>
-            <link>undefinednordic-stroke/index.html</link>
+Looks fast, doesn't it?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5428eab3f05bca419ac2ce10da2c9de01ab42eb9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/swells/nordic-stroke/index.html</link>
             <guid isPermaLink="false">c38930c2-eeec-46d5-961a-eb7839ecbfb6</guid>
             <pubDate>Thu, 18 Feb 2016 09:54:13 GMT</pubDate>
         </item>
