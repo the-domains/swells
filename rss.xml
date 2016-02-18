@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SWELLS]]></title>
+        <description><![CDATA[SWELLS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 09:55:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nordic stroke]]></title>
+            <description><![CDATA[<article><h1>Nordic stroke</h1><p>Met up with Magnus and the CROSSWATER guys this weekend to get the latest from their quest towards the "prefect stroke". 
+Their long research has led them to something they call "the Nordic stroke". The approach is very scientific and I have a lot to learn if I want to paddle faster and more efficient. The most dramatic change however, is that I’m now using my (already very short) wave paddle together with the race board…
+Looks fast, doesn't it?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70d24e9-6ee6-41d3-bf8a-3241e3085bd4.jpg"></article>]]></description>
+            <link>undefinednordic-stroke/index.html</link>
+            <guid isPermaLink="false">c38930c2-eeec-46d5-961a-eb7839ecbfb6</guid>
+            <pubDate>Thu, 18 Feb 2016 09:54:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
