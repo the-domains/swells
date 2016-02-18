@@ -1,0 +1,28 @@
+name: SWELLS
+favicon: null
+layout_spectrum: 0.0274420203641057
+typography_spectrum: 0.4938763459213078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4204680633265525
+  lightness: 0.12896226509474218
+  saturation: 0.45762392436154187
+  rhythmicContrast: 0.9632881048601121
+purpose: []
